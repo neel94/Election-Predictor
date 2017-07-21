@@ -1,8 +1,5 @@
 
-"""
-Julia worked on this
-"""
-__author__ = 'Julia'
+
 
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
