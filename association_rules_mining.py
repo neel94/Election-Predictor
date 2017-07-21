@@ -1,5 +1,4 @@
 """
-Neel and Nisarg worked on this.
 
 shows support and confidence
 """
