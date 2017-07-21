@@ -1,6 +1,4 @@
-"""
-Neel and Julia worked on this.
-"""
+
 
 import nltk
 
