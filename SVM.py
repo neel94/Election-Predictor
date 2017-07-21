@@ -1,6 +1,4 @@
-"""
-All three worked on this.
-"""
+
 
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
