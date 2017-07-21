@@ -1,5 +1,5 @@
 """
-Julia and Nisarg worked on the collecting tweets and API recall.
+
 """
 
 import twitter, sys, json
