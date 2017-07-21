@@ -1,6 +1,6 @@
 
 """
-Julia worked on this. DATA visualization.
+
 """
 
 import matplotlib.pyplot as plt; plt.rcdefaults()
