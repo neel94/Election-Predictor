@@ -1,6 +1,6 @@
 """
 Neel worked on this.
-chancging the training and testing data
+changing the training and testing data
 """
 
 from sklearn.cross_validation import train_test_split
